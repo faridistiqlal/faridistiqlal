@@ -6,11 +6,9 @@ Saya seorang pengembang FrontEnd Development Flutter yang bersemangat dari Indon
 **About me**
 - 💼 FrontEnd Engineer at [Diskominfo](https://diskominfo.kendalkab.go.id/)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
-
 - ❤️ Saya membuat aplikasi mobile, web dan dekstop dengan flutter
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 🎴 Membuat UI dan UX dan mengubahnya dalam bahasa coding
 
 
 ## 🔗 Say Hello 

@@ -1,9 +1,16 @@
 <p align="center"><a href="https://github.com/faridistiqlal"><img width="80%" src="https://user-images.githubusercontent.com/34615322/161363782-539a695c-f470-40e2-a7e3-7f2691a4664a.png" /></a></p>
 
-## 👋 Tentang saya 
- Saya seorang pengembang FrontEnd Development Flutter yang bersemangat dari Indonesia [ID]
+
+Saya seorang pengembang FrontEnd Development Flutter yang bersemangat dari Indonesia [ID]
  
-## 💻 I'm Currently workng on
+**About me**
+- 💼 FrontEnd Engineer at [Diskominfo](https://diskominfo.kendalkab.go.id/)
+
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+
+- ❤️ Saya membuat aplikasi mobile, web dan dekstop dengan flutter
+
+- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
 
 ## 🔗 Say Hello 

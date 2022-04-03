@@ -4,7 +4,7 @@
 Saya seorang pengembang FrontEnd Development Flutter yang bersemangat dari Indonesia [ID]
  
 **About me**
-- 💼 FrontEnd Engineer at [Diskominfo](https://diskominfo.kendalkab.go.id/)
+- 💼 FrontEnd Engineer
 
 - ❤️ Saya membuat aplikasi mobile, web dan dekstop dengan flutter
 

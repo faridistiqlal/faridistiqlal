@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/faridistiqlal"><img width="80%" src="https://user-images.githubusercontent.com/34615322/161363782-539a695c-f470-40e2-a7e3-7f2691a4664a.png" /></a></p>
+<p align="center"><a href="https://faridistiqlal.works/"><img width="80%" src="https://user-images.githubusercontent.com/34615322/161363782-539a695c-f470-40e2-a7e3-7f2691a4664a.png" /></a></p>
 
 
 Saya seorang pengembang FrontEnd Development Flutter yang bersemangat dari Indonesia [ID]

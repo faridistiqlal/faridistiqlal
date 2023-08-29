@@ -1,14 +1,14 @@
 <p align="center"><a href="https://faridistiqlal.works/"><img width="80%" src="https://user-images.githubusercontent.com/34615322/161363782-539a695c-f470-40e2-a7e3-7f2691a4664a.png" /></a></p>
 
 
-Saya seorang pengembang FrontEnd Development Flutter yang bersemangat dari Indonesia [ID]
+I am a passionate FrontEnd Development Flutter developer from Indonesia [EN]
  
 **About me**
-- 💼 FrontEnd Engineer
+- 💼 Front End Engineer
 
-- ❤️ Saya membuat aplikasi mobile, web dan dekstop dengan flutter
+- ❤️ I build mobile, web and desktop apps with flutter
 
-- 🎴 Membuat UI dan UX dan mengubahnya dalam bahasa coding
+- 🎴 Create UI and UX and transform it in coding languages
 
 
 ## 🔗 Say Hello 
